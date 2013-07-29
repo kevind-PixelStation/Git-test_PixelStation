@@ -28,7 +28,7 @@
 
 <div id="content">
 
-<h3>About Me Page</h3>
+<h3>About all of US</h3>
 
 <p>
 
